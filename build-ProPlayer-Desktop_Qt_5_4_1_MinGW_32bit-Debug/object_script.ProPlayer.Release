@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\glwidget_leftslider.o
+./release\glwidget_mainmenu.o
+./release\glwidget_mainsaver.o
+./release\glwidget_player.o
+./release\glwidget_rightslider.o
+./release\glwidget_runstring.o
+./release\glwidget_track.o
+./release\player.o
+./release\moc_mainwindow.o
+);
